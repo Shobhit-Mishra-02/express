@@ -11,7 +11,13 @@ git clone git@github.com:Shobhit-Mishra-02/express.git
 cd express-ts
 ```
 
-- Run this command
+- Install all the dependencies.
+
+```shell
+npm install
+```
+
+- Run this command to create jest.config.js file
 
 ```shell
 npx ts-jest config:init
