@@ -18,8 +18,6 @@ git checkout -f es6
 npm install
 ```
 
-- Run this command to create jest.config.js file
-
 - That's it you are ready to rock !!
 
 ## Start express app
