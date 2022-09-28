@@ -1,6 +1,6 @@
 # Express starter template with typescript
 
-This is just simple express starter template with typescript support and testing is done with jest and supertest.
+This is just simple express starter template with typescript support and testing is done with jest and supertest. To get the express starter template with es6 support then select **es6** branch.
 
 ## Quick start
 
