@@ -9,7 +9,7 @@ This is just simple express starter template with ES6 support and testing is don
 ```shell
 git clone git@github.com:Shobhit-Mishra-02/express.git
 cd express-ts
-git checkout -f es6
+git checkout es6
 ```
 
 - Install all the dependencies.
