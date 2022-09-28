@@ -9,11 +9,13 @@ dotenv.config();
 
 const app = express();
 
+// adding middlewares
 app.use(json());
 app.use(morgan("dev"));
 app.use(cors());
 app.use(urlencoded({ extended: true }));
 
+// adding your routes here..
 app.use("/", router);
 
 export default app;
