@@ -8,7 +8,7 @@ This is just simple express starter template with typescript support and testing
 
 ```shell
 git clone git@github.com:Shobhit-Mishra-02/express.git
-cd express-ts
+cd express-templates
 ```
 
 - Install all the dependencies.
