@@ -8,7 +8,7 @@ This is just simple express starter template with ES6 support and testing is don
 
 ```shell
 git clone git@github.com:Shobhit-Mishra-02/express.git
-cd express-ts
+cd express-templates
 git checkout es6
 ```
 
@@ -31,3 +31,5 @@ npm run start
 ```
 npm run test
 ```
+
+This app can be deployed on the heroku or cyclic
