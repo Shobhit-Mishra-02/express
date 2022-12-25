@@ -6,7 +6,8 @@
   "scripts": {
     "start": "nodemon serve.ts",
     "test": "jest --coverage",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "lint": "npx eslint ."
   },
   "keywords": [],
   "author": "",
